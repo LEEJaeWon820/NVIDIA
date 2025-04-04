@@ -1,4 +1,4 @@
-
+##### https://www.youtube.com/watch?v=7LrWGGJFEJo
 
 ```bash
 # 1. 최신 ultralytics 라이브러리 설치 (YOLOv11 지원 확인)
