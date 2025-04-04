@@ -51,3 +51,4 @@ while cap.isOpened():
 cap.release()
 print("동영상 처리 완료")
 ```
+![image](https://github.com/user-attachments/assets/50be0e43-0867-44d2-ba7a-37a8e2509fdf)
